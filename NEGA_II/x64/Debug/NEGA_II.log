@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\visual_studioprogram\nega_ii\nega_ii\nega2.hpp(570): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  NEGA_II.vcxproj -> E:\Visual_studioProgram\NEGA_II\x64\Debug\NEGA_II.exe
+  NEGA_II.vcxproj -> E:\Visual_studioProgram\NEGA_II\x64\Debug\NEGA_II.pdb (Partial PDB)
